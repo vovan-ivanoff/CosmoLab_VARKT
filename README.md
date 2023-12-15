@@ -10,7 +10,7 @@
 ![Final1](images/1.jpg)
 ![Final2](images/3.jpg)
 
-Файл с моделью [ракеты](Duna_spaceship.craft)
+Файл с моделью [ракеты](Spaceship.craft)
 
 ### Программы 
 Программы для автопилота написаны на языке **Python** с использованием библиотек **Numpy, MatPlotLib, kRPC**
