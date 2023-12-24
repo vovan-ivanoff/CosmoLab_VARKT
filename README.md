@@ -18,10 +18,10 @@
 - Программа для [Рассчета Физической модели](Programs/model.py)
 
 ### Ссылка на материалы проекта и отчет
-```Здесь должны быть ссылка```
+https://drive.google.com/drive/u/1/folders/1Zxl3asc7zUe3-6m6FWK4SXwLW-s6FiWZ
 
 ### Ссылка на видеоотчет на YouTube
-https://youtu.be/dQw4w9WgXcQ
+https://youtu.be/m11wRrQkUeE
 
 ### Ссылка на оригинал отчета
 ```Здесь должны быть ссылка```
